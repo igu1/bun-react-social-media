@@ -1,0 +1,27 @@
+{
+  "version": "6",
+  "dialect": "postgresql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "6",
+      "when": 1715854474677,
+      "tag": "0000_large_hydra",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "6",
+      "when": 1715859087653,
+      "tag": "0001_thick_black_crow",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "6",
+      "when": 1715860188018,
+      "tag": "0002_material_molecule_man",
+      "breakpoints": true
+    }
+  ]
+}

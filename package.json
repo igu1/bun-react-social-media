@@ -1,0 +1,19 @@
+{
+  "name": "social-media",
+  "module": "index.ts",
+  "type": "module",
+  "scripts": {
+    "run server": "bun --watch /server/main.ts"
+  },
+  "devDependencies": {
+    "@types/bun": "latest",
+    "drizzle-kit": "^0.21.2"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "drizzle-orm": "^0.30.10",
+    "hono": "^4.3.7"
+  }
+}
