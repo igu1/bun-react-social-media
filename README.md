@@ -1,4 +1,5 @@
-# social-media
+# Just checking if Bun.js is as fast as they say, that's all.
+## social-media
 
 To install dependencies:
 
